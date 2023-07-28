@@ -1,0 +1,1 @@
+go build -o ./Custody\ Recovery\ Tool.app/Contents/MacOS/Custody\ Recovery\ Tool && zip -r Custody\ Recovery\ Tool.app.zip Custody\ Recovery\ Tool.app
